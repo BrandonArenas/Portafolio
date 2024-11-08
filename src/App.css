@@ -1,0 +1,70 @@
+:root {
+    --color-bg: #2e3440;
+    --color-darker: #1e2328;
+    --color-chat: #3b4048;
+    --color-text: #e1e4e8;
+    --color-link: #8faeff;
+    --color-accent: #5f81aa;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+body {
+    background: var(--color-bg);
+    color: var(--color-text);
+    line-height: 1.6;
+}
+
+.main-content {
+    background: var(--color-bg);
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.section {
+    background: var(--color-darker);
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.section h2 {
+    font-size: 20px;
+    margin-bottom: 12px;
+    color: #fff;
+}
+
+.cv-button {
+    display: inline-block;
+    background-color: var(--color-accent);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-top: 12px;
+    font-size: 14px;
+    transition: background-color 0.2s;
+}
+
+.cv-button:hover {
+    background-color: #5b6eae;
+}
+
+@media (max-width: 900px) {
+    .main-content {
+        max-width: 95%;
+    }
+}
+
+@media (max-width: 768px) {
+    .contact-layout {
+        grid-template-columns: 1fr;
+    }
+}

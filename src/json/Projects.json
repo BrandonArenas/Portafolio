@@ -1,0 +1,44 @@
+{
+    "Projects": [
+        {
+            "name": "Mi Portafolio",
+            "description": "Este proyecto está diseñado para destacar mi experiencia como desarrollador, permitiendo conocer mis conocimientos y explorar los proyectos que he desarrollado. Las tecnoligias utilizadas son: HTML, CSS, JavaScript, JSON, React y Vite",
+            "link": "/imgs/url.png",
+            "urllink": "",
+            "github": "/imgs/github.png",
+            "urlgithub": ""
+        },
+        {
+            "name": "Encriptador de Texto",
+            "description": "En este proyecto, se desarrolla un encriptador y desencriptador de texto, permitiendo ocultar mensajes de manera sencilla y rápida. Las tecnologías utilizadas son: HTML, CSS, JavaScript y SweetAlert2 (para las alertas).",
+            "link": "/imgs/url.png",
+            "urllink": "https://brandonarenas.github.io/Encriptador-texto/",
+            "github": "/imgs/github.png",
+            "urlgithub": "https://github.com/BrandonArenas/Encriptador-texto"
+        },
+        {
+            "name": "UNI | EARPFIM",
+            "description": "Se desarrollo una web para gestionar información académica y horarios de clases. La aplicación cuenta con una interfaz dinámica y responsive. Tiene funcionalidades en JavaScript, carga de datos desde archivos JSON en tablas interactivas. Las tecnologías utilizadas fueron HTML, CSS, JavaScript, JSON, Bootstrap y PaginationJS (para la paginacion).",
+            "github": "/imgs/github.png",
+            "urlgithub": "https://github.com/BrandonArenas/practicas_uni"
+        },
+        {
+            "name": "Aplicación web barberia",
+            "description": "Se desarrolló un sistema de gestión de reservas de una barbería, permitiendo agendar citas para cortes de cabello. El panel de administración incluye funcionalidades CRUD para gestionar los cortes y las reservas. Las tecnologías utilizadas son: PHP, MySQL, HTML, CSS y Bootstrap.",
+            "github": "/imgs/github.png",
+            "urlgithub": "https://github.com/BrandonArenas/app_web_barberia"
+        },
+        {
+            "name": "Aplicación web tienda CRUD",
+            "description": "Se desarrollo un sistema CRUD para gestionar los productos, permitiendo agregar, modificar o eliminar productos de la tienda. Las tecnologías utilizadas son: HTML, CSS, PHP y MySQL.",
+            "github": "/imgs/github.png",
+            "urlgithub": ""
+        },
+        {
+            "name": "Aplicación de escritorio consultorio médico",
+            "description": "Aplicación de escritorio para la gestión de un consultorio médico. Se puede realizar reservaciones, gestionar su historial y registrar servicios clínicos. Incluye funcionalidades para controlar citas, registrar diagnósticos y tratamientos. Se separo la lógica de negocio, los datos y la presentación. Las tecnologías utilizadas son: Visual Studio, C# y SQL Server.",
+            "github": "/imgs/github.png",
+            "urlgithub": ""
+        }
+    ]
+}

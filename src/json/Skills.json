@@ -1,0 +1,32 @@
+{
+    "Skills": [
+        {
+            "nombre": "HTML",
+            "icono": "/imgs/html.png"
+        },
+        {
+            "nombre": "CSS",
+            "icono": "/imgs/css.png"
+        },
+        {
+            "nombre": "JavaScript",
+            "icono": "/imgs/js.png"
+        },
+        {
+            "nombre": "PHP",
+            "icono": "/imgs/php.png"
+        },
+        {
+            "nombre": "SQL",
+            "icono": "/imgs/sql.png"
+        },
+        {
+            "nombre": "GIT",
+            "icono": "/imgs/git.png"
+        },
+        {
+            "nombre": "REACT",
+            "icono": "/imgs/react.png"
+        }
+    ]
+}
