@@ -14,7 +14,6 @@
 - **Backend:**
   - PHP (en proyectos anteriores)
   - C# (en proyectos anteriores)
-  - Java (en proyectos anteriores)
 
 - **Bases de datos:**
   - MySQL (en proyectos anteriores)
