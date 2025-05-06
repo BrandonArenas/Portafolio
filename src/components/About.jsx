@@ -14,13 +14,6 @@ const About = () => {
         interesado en colaborar o tienes alguna consulta, no dudes en
         contactarme.
       </div>
-      <a
-        href="/Portafolio/cv-pdf/cv-arenas-banda.pdf"
-        target="_blank"
-        class="cv-button"
-      >
-        Descargar CV
-      </a>
     </div>
   );
 };
