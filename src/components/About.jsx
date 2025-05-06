@@ -6,8 +6,7 @@ const About = () => {
     <div class="section">
       <h2>Sobre Mí</h2>
       <div class="section-content">
-        Soy Brandon Stwuar Arenas Banda, un desarrollador con experiencia en el
-        desarrollo de software. Durante mi carrera técnica en desarrollo de
+        Soy Brandon Arenas Banda, durante mi carrera técnica en desarrollo de
         software, he desarrollado varios proyectos en mis practicas que combinan
         desarrollo frontend y backend, buscando siempre mejorar mis habilidades
         y crear soluciones funcionales. Me apasiona el trabajo en equipo y la
