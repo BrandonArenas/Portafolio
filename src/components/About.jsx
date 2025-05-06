@@ -16,7 +16,7 @@ const About = () => {
         contactarme.
       </div>
       <a
-        href="/cv_arenas_banda_brandon.pdf"
+        href="/public/cv_arenas_banda_brandon.pdf"
         target="_blank"
         class="cv-button"
       >
